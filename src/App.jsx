@@ -3,16 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+    <div className="bg-blue-500 w-full h-full">
         <p>Salah-Eddine Sharrach</p>
         <p>Salah-Eddine Sharrach</p>
         <p>Salah-Eddine Sharrach</p>
-      </header>
     </div>
   );
 }
