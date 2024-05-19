@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Salah-Eddine_Harrachmin/static/css/main.72628977.css",
-    "main.js": "/Salah-Eddine_Harrachmin/static/js/main.f0356e24.js",
+    "main.css": "/Salah-Eddine_Harrachmin/static/css/main.07e12f1a.css",
+    "main.js": "/Salah-Eddine_Harrachmin/static/js/main.822be707.js",
     "static/js/453.b15f939b.chunk.js": "/Salah-Eddine_Harrachmin/static/js/453.b15f939b.chunk.js",
-    "static/media/logo.svg": "/Salah-Eddine_Harrachmin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/hh.jpeg": "/Salah-Eddine_Harrachmin/static/media/hh.621bdb7bd1f01c8c9b6f.jpeg",
     "index.html": "/Salah-Eddine_Harrachmin/index.html",
-    "main.72628977.css.map": "/Salah-Eddine_Harrachmin/static/css/main.72628977.css.map",
-    "main.f0356e24.js.map": "/Salah-Eddine_Harrachmin/static/js/main.f0356e24.js.map",
+    "main.07e12f1a.css.map": "/Salah-Eddine_Harrachmin/static/css/main.07e12f1a.css.map",
+    "main.822be707.js.map": "/Salah-Eddine_Harrachmin/static/js/main.822be707.js.map",
     "453.b15f939b.chunk.js.map": "/Salah-Eddine_Harrachmin/static/js/453.b15f939b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72628977.css",
-    "static/js/main.f0356e24.js"
+    "static/css/main.07e12f1a.css",
+    "static/js/main.822be707.js"
   ]
 }
